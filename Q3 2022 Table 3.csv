@@ -1,0 +1,535 @@
+Sales ID,Account,Date,Region,Sector,Item,Units
+5000,Hovarda,01/07/2022,London,Restaurant,CAR70,54
+5001,Chiltern Firehouse,01/07/2022,London,Hotel,CAR20,36
+5002,Champers,01/07/2022,London,Sub-Distributor / wholesale,CAU,6
+5003,The Salusbury Winestore and Bar,01/07/2022,London,Retail,GOLD,4
+5004,Best Wines London,01/07/2022,London,Sub-Distributor / wholesale,GUERRERO,3
+5005,The Drinks Club,01/07/2022,London,Sub-Distributor / wholesale,CAR1.75,3
+5006,Rehills of Jesmond,01/07/2022,Newcastle upon Tyne,Retail,LAP,2
+5007,Gerry's,01/07/2022,London,Retail,CAA,1
+5008,L'Antica Pizzeria da Michele,01/07/2022,Manchester,Restaurant,CAR70,1
+5009,Hedonism,02/07/2022,London,Retail,CAA,36
+5010,Mosimanns,02/07/2022,London,Restaurant,CAR70,2
+5011,Taqueira,02/07/2022,London,Restaurant,CAR70,1
+5012,Ministry of Sound,03/07/2022,London,Night Club,CAR70,6
+5013,Champers,03/07/2022,London,Sub-Distributor / wholesale,CAM,3
+5014,Little Fresh,03/07/2022,London,Retail,CAR70,2
+5015,The Arts Club,03/07/2022,London,Other,CAR70,1
+5016,Inca,04/07/2022,London,Night Club,CAR70,12
+5017,L'Art Du Vin Limited,04/07/2022,Edinburgh,Sub-Distributor / wholesale,CAP,6
+5018,The London Reign,04/07/2022,London,Night Club,CAR1.75,4
+5019,Jin Bo Law Skybar,04/07/2022,London,Bar,CAP,3
+5020,Casa Cruz,04/07/2022,London,Restaurant,CAR70,2
+5021,Bulgari Hotel,04/07/2022,London,Hotel,CAR70,2
+5022,Primrose Corner,04/07/2022,London,Retail,CAR70,1
+5023,Prestige Drinks,04/07/2022,London,Online Shop,CAA,1
+5024,Annabel's,05/07/2022,London,Other,CAP,13
+5025,Selfridges Ltd,06/07/2022,London,Retail,CAR70,846
+5026,Best Wines London,06/07/2022,London,Sub-Distributor / wholesale,CAR70,173
+5027,Proud Embankment,06/07/2022,London,Night Club,CAR70,11
+5028,Cirque Le Soir,06/07/2022,London,Night Club,CAU,6
+5029,Cranbrook Wines,06/07/2022,London,Retail,CAR70,3
+5030,Miro,06/07/2022,London,Restaurant,CAP,2
+5031,Cult Wing,06/07/2022,Leeds,Restaurant,CAP,1
+5032,Mercure St. Helens,07/07/2022,St Helens,Hotel,CAR70,6
+5033,Saxty's Wines,07/07/2022,Hereford,Retail,GOLD,6
+5034,34 Mayfair,07/07/2022,London,Restaurant,CAR70,3
+5035,Mimi Mei Fair,07/07/2022,London,Restaurant,CAR70,1
+5036,Hedonism,08/07/2022,London,Retail,CAR70,359
+5037,Selfridges Ltd,08/07/2022,London,Retail,CAP,174
+5038,Harvey Nichols,08/07/2022,London,Retail,CAR70,42
+5039,"The Standard Hotel, London",08/07/2022,London,Hotel,CAR70,28
+5040,Speciality Drinks Ltd,08/07/2022,London,Sub-Distributor / wholesale,CAA,11
+5041,Inca,08/07/2022,London,Night Club,CAR70,6
+5042,Santo Mare Restaurant,08/07/2022,London,Restaurant,CAR70,3
+5043,Pan Pacific,08/07/2022,London,Hotel,CAA,2
+5044,Azteca Chelsea,08/07/2022,London,Restaurant,CAR70,2
+5045,Fairmont Windsor Park,08/07/2022,Windsor,Hotel,CAP,1
+5046,Amathus Drinks PLC,09/07/2022,London,Retail,CAU,6
+5047,Cielito,09/07/2022,Surrey,Restaurant,CAR70,1
+5048,Banana Split,10/07/2022,London,Other,CAP,24
+5049,HT Drinks,10/07/2022,London,Cash & Carry,CAA,12
+5050,Best Wines London,10/07/2022,London,Sub-Distributor / wholesale,CAM,5
+5051,Inca,10/07/2022,London,Night Club,GOLD,4
+5052,The George,10/07/2022,London,Restaurant,CAR70,0
+5053,HT Drinks,11/07/2022,London,Cash & Carry,CAP,210
+5054,Enotria & Coe,11/07/2022,London,Sub-Distributor / wholesale,CAP,19
+5055,Trafalgar St James,11/07/2022,London,Hotel,CAR70,2
+5056,Hilton London,11/07/2022,London,Hotel,CAM,1
+5057,Appleberry Foods Ltd,12/07/2022,London,Online Shop,CAR70,60
+5058,Edwardian Hotel,12/07/2022,London,Hotel,CAP,12
+5059,Tottenham Wines,12/07/2022,London,Retail,CAA,6
+5060,Tribe,12/07/2022,London,Hotel,CAP,3
+5061,The Soho Hotel,12/07/2022,London,Hotel,CAR70,3
+5062,Amano Hotel,12/07/2022,London,Hotel,CAP,2
+5063,Manolo Bar,12/07/2022,Liverpool,Bar,CAP,1
+5064,The Waterside Inn,12/07/2022,London,Restaurant,CAR70,1
+5065,Maddox Club,13/07/2022,London,Night Club,CAR70,30
+5066,Harvey Nichols,13/07/2022,London,Retail,GOLD,18
+5067,Hard to Find Whiskey,13/07/2022,Birmingham,Online Shop,CAA,12
+5068,Nusret,13/07/2022,London,Restaurant,CAP,1
+5069,The Wild Rabbit,13/07/2022,Costwold,Restaurant,CAR70,1
+5070,Hilton London,13/07/2022,London,Hotel,CAR70,0
+5071,Selfridges Ltd,14/07/2022,London,Retail,CAM,68
+5072,Rosin Fine Wines,14/07/2022,London,Retail,CAP,24
+5073,Bardo St James,14/07/2022,London,Restaurant,CAR70,16
+5074,Annabel's,14/07/2022,London,Other,CAU,3
+5075,Maison Estelle,14/07/2022,London,Other,CAP,2
+5076,The Corinthia,14/07/2022,London,Hotel,GOLD,1
+5077,Village Vineyards,15/07/2022,Birmingham,Retail,CAM,3
+5078,Cirque Le Soir,15/07/2022,London,Night Club,CAR1.75,2
+5079,Heng Zun UK Trading Ltd,15/07/2022,London,Other,CAR70,1
+5080,Quaglinos,15/07/2022,London,Restaurant,CAP,1
+5081,"The Standard Hotel, London",16/07/2022,London,Hotel,CAA,8
+5082,TT Liquor,16/07/2022,London,Bar,CAR70,7
+5083,Beat London,16/07/2022,London,Night Club,CAR1.75,6
+5084,C London,16/07/2022,London,Restaurant,CAR70,5
+5085,The Globe,16/07/2022,London,Bar,CAR70,3
+5086,Bagatelle,16/07/2022,London,Restaurant,CAR1.75,2
+5087,Locanda Locatelli,16/07/2022,London,Restaurant,CAR70,2
+5088,The Biltmore,16/07/2022,London,Hotel,CAR70,1
+5089,Giovanni,16/07/2022,London,Restaurant,CAA,1
+5090,Twenty Two,16/07/2022,London,Other,CAP,1
+5091,The Champagne Company,17/07/2022,Birmingham,Online Shop,CAR70,246
+5092,MNKY HSE,17/07/2022,London,Night Club,CAR70,24
+5093,Maison Estelle,17/07/2022,London,Other,CAR70,4
+5094,Brunswick Fine Wine and Spirits,17/07/2022,Brighton,Retail,GOLD,2
+5095,Just Drinks,18/07/2022,London,Sub-Distributor / wholesale,CAR70,270
+5096,Hedonism,18/07/2022,London,Retail,CAP,120
+5097,Townhouse 22,18/07/2022,London,Other,CAR20,42
+5098,Stringfellows,18/07/2022,London,Night Club,CAR20,36
+5099,Daylesford Organic,18/07/2022,Cotswolds,Retail,CAR70,12
+5100,Tassen,18/07/2022,London,Other,CAR70,12
+5101,Toca Social,18/07/2022,London,Bar,CAR70,2
+5102,Venus Wine & Spirit Merchants PLC,18/07/2022,London,Sub-Distributor / wholesale,CAR70,1
+5103,Cirque Le Soir,19/07/2022,London,Night Club,CAR70,102
+5104,House of Malt,19/07/2022,London,Online Shop,CAP,48
+5105,Perplex London Limited,19/07/2022,London,Other,CAR70,6
+5106,Seven Cellars,19/07/2022,Brighton,Retail,CAR70,6
+5107,Array,19/07/2022,Romford,Restaurant,CAR70,2
+5108,Just Drinks,20/07/2022,London,Sub-Distributor / wholesale,GUERRERO,6
+5109,The Connaught Hotel,20/07/2022,London,Restaurant,CAR70,4
+5110,Ramona,20/07/2022,Manchester,Restaurant,CAR70,3
+5111,Zuma,20/07/2022,London,Restaurant,CAR70,2
+5112,Rita's Cocktail Bar,20/07/2022,Southampton,Restaurant,CAR70,1
+5113,Appleberry Foods Ltd,21/07/2022,London,Online Shop,CAP,30
+5114,The Real Drinks Company,21/07/2022,Glasgow,Online Shop,CAR70,24
+5115,Harry's Bar,21/07/2022,London,Restaurant,CAR70,11
+5116,Seven Cellars,21/07/2022,Brighton,Retail,CAP,6
+5117,Le Petit Beef Bar,21/07/2022,London,Restaurant,CAR70,4
+5118,Louie London,21/07/2022,London,Restaurant,CAR70,1
+5119,Mestizo Chelsea,21/07/2022,London,Restaurant,CAP,1
+5120,W Leicester Square,21/07/2022,London,Hotel,CAR70,1
+5121,Bardome,21/07/2022,London,Sub-Distributor / wholesale,CAR70,1
+5122,HT Drinks,22/07/2022,London,Cash & Carry,CAR70,210
+5123,Wyld,22/07/2022,London,Night Club,CAR70,112
+5124,One Circle,22/07/2022,London,Other,CAR70,48
+5125,Hills Prospects,22/07/2022,London,Sub-Distributor / wholesale,CAR70,12
+5126,The Milk Float,22/07/2022,London,Restaurant,CAP,3
+5127,Sparrow Mayfair,22/07/2022,London,Restaurant,CAR70,3
+5128,Sheldons Wine Cellars,22/07/2022,Costwold,Retail,CAR70,2
+5129,Manolo Bar,22/07/2022,Liverpool,Bar,CAR70,2
+5130,Chakra Event Management Ltd,23/07/2022,London,Other,CAR70,8
+5131,Saxty's Wines,23/07/2022,Hereford,Retail,CAM,6
+5132,The Gun,23/07/2022,London,Bar,CAA,2
+5133,Tabu,24/07/2022,London,Night Club,CAR1.75,8
+5134,Mestizo Restaurant,24/07/2022,London,Restaurant,CAR70,5
+5135,Sophie's Soho,24/07/2022,London,Restaurant,CAA,3
+5136,Tito Restaurant,24/07/2022,London,Restaurant,CAR70,2
+5137,The Beaumont Hotel,24/07/2022,London,Hotel,CAM,1
+5138,Giovanni,24/07/2022,London,Restaurant,CAP,1
+5139,Grill 79,24/07/2022,Essex,Restaurant,CAR70,1
+5140,Harrods,25/07/2022,London,Retail,GOLD,24
+5141,Virgin Wines Online Limited,25/07/2022,London,Online Shop,CAP,18
+5142,Sheldons Wine Cellars,25/07/2022,Costwold,Retail,CAP,6
+5143,Village Vineyards,25/07/2022,Birmingham,Retail,GOLD,3
+5144,Rita's Cocktail Bar,25/07/2022,Southampton,Restaurant,CAR1.75,2
+5145,Sophie's Soho,25/07/2022,London,Restaurant,CAM,1
+5146,Amano Hotel,25/07/2022,London,Hotel,CAM,1
+5147,The Wine Reserve,26/07/2022,Cobham,Retail,CAR70,12
+5148,Nobu Hotel,26/07/2022,London,Restaurant,CAP,3
+5149,Southside Tequila Joint,26/07/2022,Manchester,Restaurant,CAP,2
+5150,Cavita,26/07/2022,London,Restaurant,CAR70,2
+5151,Market Cat,26/07/2022,York,Bar,CAR70,1
+5152,Amathus Drinks PLC,27/07/2022,London,Retail,CAP,179
+5153,Bar des Pres,27/07/2022,London,Restaurant,CAR70,18
+5154,Tabu,27/07/2022,London,Night Club,CAP,12
+5155,Roka Canary Wharf,27/07/2022,London,Restaurant,CAR70,3
+5156,Opso,27/07/2022,London,Restaurant,CAR70,2
+5157,Saxty's Wines,28/07/2022,Hereford,Retail,CAA,15
+5158,Rosewood Hotel,28/07/2022,London,Hotel,CAR70,12
+5159,Gerry's,28/07/2022,London,Retail,CAP,8
+5160,Champers,28/07/2022,London,Sub-Distributor / wholesale,CAA,6
+5161,Cactus Hound Bar,28/07/2022,Saint Leonards-on-sea,Bar,CAR70,6
+5162,Mandrake,28/07/2022,London,Hotel,CAR70,2
+5163,Nusret,28/07/2022,London,Restaurant,CAM,1
+5164,Hard to Find Whiskey,29/07/2022,Birmingham,Online Shop,CAR70,336
+5165, The London Reign,29/07/2022,London,Night Club,CAR70,66
+5166,Townhouse 22,29/07/2022,London,Other,CAR70,26
+5167,Oswald's,29/07/2022,London,Other,CAR70,6
+5168,Mezcalito Chelsea,29/07/2022,London,Restaurant,CAP,2
+5169,Bocconcino Restaurant,29/07/2022,London,Restaurant,CAP,1
+5170,Mezcalito Chelsea,29/07/2022,London,Restaurant,CAP,1
+5171,Oneonefour Restaurant,29/07/2022,Surrey,Restaurant,CAR70,1
+5172,DrinkSupermaket.com Ltd,30/07/2022,London,Online Shop,CAR70,164
+5173,HT Drinks,30/07/2022,London,Cash & Carry,LAP,18
+5174,The Box Soho,30/07/2022,London,Night Club,CAR70,12
+5175,Speciality Drinks Ltd,30/07/2022,London,Sub-Distributor / wholesale,CAU,3
+5176,Sheldons Wine Cellars,30/07/2022,Costwold,Retail,CAU,2
+5177,Bar des Pres,30/07/2022,London,Restaurant,CAA,1
+5178,Corinthia Hotel,30/07/2022,London,Hotel,GOLD,1
+5179,The Drinks Club,31/07/2022,London,Sub-Distributor / wholesale,GOLD,28
+5180,The Champagne Company,31/07/2022,Birmingham,Online Shop,CAP,12
+5181,Novikov,31/07/2022,London,Restaurant,CAR70,9
+5182,Mestizo Restaurant,31/07/2022,London,Restaurant,CAP,6
+5183,Electshow Ltd,31/07/2022,London,Other,CAR70,1
+5184,Mestizo Chelsea,31/07/2022,London,Restaurant,CAR70,1
+5185,Master of Malt,01/08/2022,London,Online Shop,GOLD,200
+5186,Koko,01/08/2022,London,Bar,CAR70,44
+5187,Speciality Drinks Ltd,01/08/2022,London,Sub-Distributor / wholesale,GOLD,41
+5188,PS Drinks,01/08/2022,London,Sub-Distributor / wholesale,CAP,18
+5189,Mezcalito Chelsea,01/08/2022,London,Restaurant,CAR70,4
+5190,Sparrow Mayfair,01/08/2022,London,Restaurant,CAP,2
+5191,Sucre,01/08/2022,London,Restaurant,CAR70,1
+5192,Premium Tequila,02/08/2022,London,Online Shop,CAR70,64
+5193,House of Malt,02/08/2022,London,Online Shop,CAR70,36
+5194,The Whisky Shop,02/08/2022,London,Online Shop,GOLD,6
+5195,Oswald's,02/08/2022,London,Other,GOLD,3
+5196,"The Standard Hotel, London",03/08/2022,London,Hotel,CAP,27
+5197,Rosin Fine Wines,03/08/2022,London,Retail,CAU,12
+5198,Hedonism,03/08/2022,London,Retail,LAP,10
+5199,Mayfair Homes,03/08/2022,London,Other,CAP,6
+5200,W Leicester Square,03/08/2022,London,Hotel,CAP,6
+5201,City and Country Hotels Ltd,03/08/2022,London,Hotel,CAR70,3
+5202,Canopy By,03/08/2022,London,Hotel,CAR70,2
+5203,Kadies,03/08/2022,London,Night Club,CAR1.75,2
+5204,Zuma,03/08/2022,London,Restaurant,CAA,1
+5205,The Corinthia,03/08/2022,London,Hotel,CAP,1
+5206,Tape machine Ltd,04/08/2022,London,Other,CAR70,132
+5207,The Cadogan Arms,04/08/2022,London,Restaurant,CAR70,24
+5208,IT Restaurant,04/08/2022,London,Restaurant,CAR70,21
+5209,Jin Bo Law Skybar,04/08/2022,London,Bar,CAR1.75,6
+5210,Master of Malt,05/08/2022,London,Online Shop,CAR70,606
+5211,Sumosan Twiga,05/08/2022,London,Restaurant,CAR70,37
+5212,Best Wines London,05/08/2022,London,Sub-Distributor / wholesale,CAR1.75,17
+5213,Tattu Manchester,05/08/2022,Manchester,Restaurant,CAR70,4
+5214,Jak's Kings Road,05/08/2022,London,Restaurant,CAR70,2
+5215,The Hari Hotel,05/08/2022,London,Hotel,GOLD,1
+5216,Master of Malt,06/08/2022,London,Online Shop,CAA,12
+5217,The Chelsea Food and Wine Company,06/08/2022,London,Retail,CAP,6
+5218,Nusr-Et,06/08/2022,London,Restaurant,CAU,1
+5219,Rosso ,06/08/2022,Manchester,Restaurant,GOLD,1
+5220,Jak's,07/08/2022,London,Restaurant,CAR70,12
+5221,Casa Cruz,07/08/2022,London,Restaurant,CAR70,6
+5222,Sophisticats,07/08/2022,London,Night Club,CAR70,5
+5223,The Drinks Club,07/08/2022,London,Sub-Distributor / wholesale,GUERRERO,5
+5224,Jak's Mayfair,07/08/2022,London,Restaurant,CAR70,4
+5225,Scott's Richmond,07/08/2022,Richmond,Restaurant,CAR70,3
+5226,Inca,07/08/2022,London,Night Club,CAR1.75,2
+5227,Maison Estelle,07/08/2022,London,Other,CAP,2
+5228,5 Hertford Street,07/08/2022,London,Other,CAR70,2
+5229,The Windmill Soho,07/08/2022,London,Night Club,CAU,1
+5230,Mezcalito Chelsea,07/08/2022,London,Restaurant,GOLD,1
+5231,Disrepute,07/08/2022,London,Other,CAP,1
+5232,The Fox at Oddington,07/08/2022,Costwold,Restaurant,CAR70,1
+5233,Wyld,08/08/2022,London,Night Club,CAR70,39
+5234,Scotch of St James,08/08/2022,London,Night Club,CAP,3
+5235,Nusr-ET,08/08/2022,London,Restaurant,CAA,1
+5236,Corinthia Hotel,08/08/2022,London,Hotel,CAP,1
+5237,Astons of Manchester,09/08/2022,Manchester,Retail,CAP,4
+5238,Tabu,09/08/2022,London,Night Club,CAA,3
+5239,Akira Restaurant,09/08/2022,London,Restaurant,CAR70,1
+5240,Koyn,09/08/2022,London,Restaurant,CAR70,1
+5241,HT Drinks,09/08/2022,London,Cash & Carry,CAU,1
+5242,Champers,10/08/2022,London,Sub-Distributor / wholesale,CAR20,84
+5243,Mimi's Bar & Lounge,10/08/2022,London,Hotel,CAR70,3
+5244,The Box Soho,10/08/2022,London,Night Club,CAR70,3
+5245,Amano Hotel,10/08/2022,London,Hotel,CAR70,2
+5246,Novikov Restaurant & Bar,11/08/2022,London,Restaurant,CAR70,30
+5247,Hills Prospects,11/08/2022,London,Sub-Distributor / wholesale,CAP,12
+5248,Speciality Drinks Ltd,11/08/2022,London,Sub-Distributor / wholesale,GUERRERO,12
+5249,Zephyr,11/08/2022,London,Restaurant,CAP,4
+5250,Caia,11/08/2022,London,Restaurant,CAR70,4
+5251,Mezcalito Chelsea,11/08/2022,London,Restaurant,CAR70,4
+5252,One Aldwych,11/08/2022,London,Hotel,CAR70,2
+5253,Southside Tequila Joint,11/08/2022,Manchester,Restaurant,CAR70,2
+5254,Grill 79,11/08/2022,Essex,Restaurant,CAP,1
+5255,Hedonism,12/08/2022,London,Retail,CAM,50
+5256,Amathus Drinks PLC,12/08/2022,London,Retail,GOLD,18
+5257,MORETON WINE MERCHANT,12/08/2022,Cotswold,Retail,CAR70,4
+5258,Old Queens Head,12/08/2022,London,Restaurant,CAR70,3
+5259,Kosmopol Limited,12/08/2022,London,Bar,CAR70,3
+5260,Pali Hill,12/08/2022,London,Restaurant,CAM,1
+5261,Miro,13/08/2022,London,Restaurant,CAR70,11
+5262,Socialista,13/08/2022,London,Other,CAR70,6
+5263,Wagtail,13/08/2022,London,Restaurant,CAP,2
+5264,Kol,13/08/2022,London,Restaurant,CAR1.75,1
+5265,The Windmill Soho,14/08/2022,London,Night Club,CAR70,99
+5266,Inca,14/08/2022,London,Night Club,CAA,2
+5267,Tattu,14/08/2022,Manchester,Restaurant,CAR70,1
+5268,Cavita,14/08/2022,London,Restaurant,CAP,1
+5269,Laylow,14/08/2022,London,Other,CAR70,1
+5270,Mestizo Chelsea,14/08/2022,London,Restaurant,CAR1.75,1
+5271,Just Drinks,15/08/2022,London,Sub-Distributor / wholesale,CAP,60
+5272,Amazonico,15/08/2022,London,Restaurant,CAP,15
+5273,Chiltern Firehouse,16/08/2022,London,Hotel,CAP,2
+5274,Chinawhite Newcastle,16/08/2022,Newcastle upon Tyne,Night Club,CAR70,2
+5275,Selfridges Ltd,17/08/2022,London,Retail,GOLD,72
+5276,Hedonism,17/08/2022,London,Retail,GOLD,53
+5277,The Grapevine,17/08/2022,London,Retail,GOLD,42
+5278,Amazonico,17/08/2022,London,Restaurant,CAA,4
+5279,Sexy Fish,17/08/2022,London,Restaurant,CAP,3
+5280,Zuma,17/08/2022,London,Restaurant,CAP,1
+5281,Toca Social,17/08/2022,London,Bar,CAA,1
+5282,Speciality Drinks Ltd,18/08/2022,London,Sub-Distributor / wholesale,CAP,222
+5283,Annabel's,18/08/2022,London,Other,CAR70,111
+5284,Maison Estelle,18/08/2022,London,Other,CAR70,3
+5285,Treehouse,18/08/2022,London,Hotel,CAR70,3
+5286,The Hari Hotel,18/08/2022,London,Hotel,CAR70,3
+5287,Mark's Club,18/08/2022,London,Other,CAR70,2
+5288,NOBU Hotel Shoteditch,18/08/2022,London,Hotel,CAR70,1
+5289,Jin Bo Law Skybar,19/08/2022,London,Bar,CAR20,24
+5290,Scotch of St James,19/08/2022,London,Night Club,CAR70,3
+5291,Mandarin Oriental,19/08/2022,London,Hotel,GOLD,1
+5292,Master of Malt,20/08/2022,London,Online Shop,CAP,120
+5293,ZAPP,20/08/2022,London,Online Shop,CAR70,72
+5294,Twenty Two,20/08/2022,London,Other,CAR70,37
+5295,Bagatelle,20/08/2022,London,Restaurant,CAR70,6
+5296,Jin Bo Law Skybar,20/08/2022,London,Bar,GOLD,3
+5297,The Churchhill,20/08/2022,London,Hotel,CAR70,3
+5298,Stringfellows,20/08/2022,London,Night Club,GOLD,2
+5299,Los Mochis,20/08/2022,London,Restaurant,CAP,1
+5300,Giovanni,20/08/2022,London,Restaurant,GOLD,1
+5301,Prestige Drinks,21/08/2022,London,Online Shop,CAR70,30
+5302,Tottenham Wines,21/08/2022,London,Retail,CAP,24
+5303,Tokyo Industries,21/08/2022,Manchester,Night Club,CAR70,6
+5304,Roka Mayfair,21/08/2022,London,Restaurant,CAR70,6
+5305,Speciality Drinks Ltd,21/08/2022,London,Sub-Distributor / wholesale,CAM,4
+5306,The Bentley,21/08/2022,London,Restaurant,CAR70,2
+5307,Maison Estelle,21/08/2022,London,Other,CAM,2
+5308,Rouge,21/08/2022,Guernsey,Restaurant,GOLD,2
+5309,Meraki,21/08/2022,London,Restaurant,CAR70,1
+5310,Selfridges Ltd,22/08/2022,London,Retail,CAR20,276
+5311,Bordeaux Index Limited,22/08/2022,London,Sub-Distributor / wholesale,CAR70,72
+5312,Chiltern Firehouse,22/08/2022,London,Hotel,CAR20,72
+5313,The Drinks Club,22/08/2022,London,Sub-Distributor / wholesale,CAM,6
+5314,Zephyr,22/08/2022,London,Restaurant,CAR70,5
+5315,Novikov Restaurant & Bar,22/08/2022,London,Restaurant,CAR70,5
+5316,Jin Bo Law Skybar,22/08/2022,London,Bar,CAM,2
+5317,GL Restaurants Ltd T/A Pali Hill,22/08/2022,London,Restaurant,CAR70,1
+5318,Ciro's Pizza Pomodoro,23/08/2022,Derby,Restaurant,CAR70,4
+5319,Jin Bo Law Skybar,23/08/2022,London,Bar,CAA,2
+5320,Wild Tavern,23/08/2022,London,Restaurant,CAR70,2
+5321,Harvey Nichols,23/08/2022,London,Retail,CAU,1
+5322,Bordeaux Index Limited,24/08/2022,London,Sub-Distributor / wholesale,GOLD,6
+5323,The Whisky Shop,24/08/2022,London,Online Shop,CAR70,6
+5324,Il Borro Tuscan Bistro,24/08/2022,London,Restaurant,CAR70,3
+5325,Saxty's Wines,25/08/2022,Hereford,Retail,CAP,60
+5326,Hard to Find Whiskey,25/08/2022,Birmingham,Online Shop,GOLD,12
+5327,The Blues Kitchen,25/08/2022,London,Restaurant,CAR70,10
+5328,Isabel Mayfair Limited,25/08/2022,London,Restaurant,CAP,3
+5329,Nobu Hotel,25/08/2022,London,Hotel,CAR70,2
+5330,Sophie's Soho,25/08/2022,London,Restaurant,CAP,2
+5331,KOL,25/08/2022,London,Restaurant,CAR70,1
+5332,Cuckoo Club,26/08/2022,London,Night Club,CAR70,30
+5333,Mariachi,26/08/2022,Margate,Bar,CAR70,30
+5334,Daylesford Organic,26/08/2022,Cotswolds,Retail,CAP,12
+5335,Nobu Hotel,26/08/2022,London,Hotel,CAR70,2
+5336,Madison,26/08/2022,London,Restaurant,CAM,2
+5337,Bocconcino Restaurant,26/08/2022,London,Restaurant,CAR70,1
+5338,Dorchester Hotel,26/08/2022,London,Hotel,CAA,1
+5339,Mamounia Lounge,26/08/2022,London,Restaurant,CAA,1
+5340,Goodman Canary Wharf,26/08/2022,London,Restaurant,CAR70,1
+5341,Chiltern Firehouse,27/08/2022,London,Hotel,CAR70,78
+5342,The Conran Shop,27/08/2022,London,Retail,CAR70,36
+5343,Chinawhite Manchester,27/08/2022,Manchester,Night Club,CAR70,20
+5344,La Petite Maison,27/08/2022,London,Restaurant,CAR70,4
+5345,London Reign,27/08/2022,London,Night Club,CAR1.75,2
+5346,Beat London,28/08/2022,London,Night Club,CAR70,36
+5347,The Maine,28/08/2022,London,Restaurant,CAR70,12
+5348,LWC Drinks,28/08/2022,London,Sub-Distributor / wholesale,CAR70,7
+5349,Drunch,28/08/2022,London,Restaurant,CAR70,6
+5350,Inca,28/08/2022,London,Night Club,CAR70,6
+5351,Kadies,28/08/2022,London,Night Club,CAR70,6
+5352,Selfridges Retail Ltd (Restaurants),28/08/2022,London,Hotel,CAR70,4
+5353,Hic! Wine Merchants,28/08/2022,Yorkshire,Retail,CAR70,2
+5354,Drunch,28/08/2022,London,Restaurant,CAA,1
+5355,Jumeirah Carlton Tower,28/08/2022,London,Hotel,CAR70,1
+5356,The Arts Club,28/08/2022,London,Other,CAP,1
+5357,5 Hertford Street,28/08/2022,London,Other,CAM,1
+5358,The Champagne Company,28/08/2022,Birmingham,Online Shop,CAM,1
+5359,Tabu,29/08/2022,London,Night Club,CAR70,12
+5360,Decanter Spirit,29/08/2022,Cotswolds,Bar,CAR70,6
+5361,Miraflores Bar and Lounge,29/08/2022,London,Restaurant,CAR70,6
+5362,Prestige Drinks,29/08/2022,London,Online Shop,LAP,6
+5363,Louie London,29/08/2022,London,Restaurant,CAR70,4
+5364,Mestizo Chelsea,29/08/2022,London,Restaurant,GOLD,1
+5365,Maison Francois,29/08/2022,London,Restaurant,CAR1.75,1
+5366,Isabel,30/08/2022,London,Restaurant,CAR70,26
+5367,Studio Spaces Ltd,30/08/2022,London,Other,CAR70,12
+5368,Not-Another-Bill,30/08/2022,London,Online Shop,CAR70,6
+5369,Bagatelle,30/08/2022,London,Restaurant,CAP,6
+5370,Amici,30/08/2022,London,Restaurant,CAR70,4
+5371,Chiltern Firehouse,30/08/2022,London,Hotel,CAM,1
+5372,Bordeaux Index Limited,30/08/2022,London,Sub-Distributor / wholesale,CAU,1
+5373,34 Mayfair,30/08/2022,London,Restaurant,CAM,1
+5374,Oswald's,30/08/2022,London,Other,CAA,1
+5375,Laytons,31/08/2022,London,Retail,CAR70,120
+5376,Park Chinois,31/08/2022,London,Restaurant,CAR70,7
+5377,Enotria & Coe,31/08/2022,London,Sub-Distributor / wholesale,CAR70,4
+5378,Festival Republic Ltd,31/08/2022,London,Other,GOLD,4
+5379,Beaverbrook Townhouse,31/08/2022,London,Hotel,CAP,2
+5380,Park Chinois,01/09/2022,London,Restaurant,CAR70,6
+5381,Maison Assouline,02/09/2022,London,Bar,CAR70,66
+5382,Sale e Pepe of Knightsbridge,02/09/2022,London,Restaurant,CAR70,2
+5383,Corinthia Hotel,02/09/2022,London,Hotel,CAR70,1
+5384,Frida's,02/09/2022,London,Restaurant,CAP,1
+5385,Saxty's Wines,03/09/2022,Hereford,Retail,CAR70,192
+5386,Cirque Le Soir,03/09/2022,London,Night Club,CAR70,30
+5387,Tottenham Wines,03/09/2022,London,Retail,CAR70,24
+5388,Iris Avenue,03/09/2022,London,Other,CAR70,3
+5389,Boiler and Company,03/09/2022,London,Restaurant,CAP,2
+5390,The Globe,03/09/2022,London,Bar,CAP,1
+5391,Meat & Wine Co,03/09/2022,London,Restaurant,CAR70,1
+5392,Goodman Mayfair,03/09/2022,London,Restaurant,CAR70,1
+5393,Nikita,04/09/2022,London,Other,CAR70,36
+5394,Harvey Nichols,04/09/2022,London,Retail,CAR20,24
+5395,Annabel's,04/09/2022,London,Other,CAR1.75,18
+5396,Steel Yard,04/09/2022,London,Night Club,CAR70,6
+5397,Giovanni,04/09/2022,London,Restaurant,CAM,1
+5398,Wagtail,04/09/2022,London,Restaurant,CAR70,1
+5399,23 Paul Street,05/09/2022,London,Night Club,CAR70,2
+5400,Bulgari Hotel,06/09/2022,London,Hotel,CAR70,35
+5401,Tape London,06/09/2022,London,Night Club,CAR70,12
+5402,Prestige Drinks,06/09/2022,London,Online Shop,CAP,6
+5403,Four Seasons,06/09/2022,London,Hotel,CAA,4
+5404,"The Standard Hotel, London",06/09/2022,London,Hotel,GUERRERO,1
+5405,Wagtail,06/09/2022,London,Restaurant,CAA,1
+5406,Barrio,06/09/2022,London,Restaurant,CAP,1
+5407,Chiltern Firehouse,07/09/2022,London,Hotel,CAR70,36
+5408,Exhibit,07/09/2022,London,Restaurant,CAR70,3
+5409,Bar des Pres,07/09/2022,London,Restaurant,CAM,1
+5410,Speciality Drinks Ltd,08/09/2022,London,Sub-Distributor / wholesale,CAR70,1510
+5411,Hard to Find Whiskey,08/09/2022,Birmingham,Online Shop,CAP,60
+5412,All Drinks Cash & Carry,08/09/2022,London,Cash & Carry,LAP,30
+5413,Best Wines London,08/09/2022,London,Sub-Distributor / wholesale,CAR20,24
+5414,Hedonism,08/09/2022,London,Retail,CAP,12
+5415,Edwardian Hotel,08/09/2022,Manchester,Hotel,CAP,4
+5416,The Corinthia,08/09/2022,London,Hotel,CAR70,4
+5417,Enotria & Coe,08/09/2022,London,Sub-Distributor / wholesale,GOLD,3
+5418,MNKY HSE,08/09/2022,London,Night Club,CAP,2
+5419,La Petite Maison,08/09/2022,London,Restaurant,CAA,2
+5420,Nusret,08/09/2022,London,Restaurant,GOLD,2
+5421,The Beaumont Hotel,08/09/2022,London,Hotel,GUERRERO,1
+5422,Hard to Find Whiskey,09/09/2022,Birmingham,Online Shop,CAM,12
+5423,AA Somm Limited,09/09/2022,London,Other,CAR70,12
+5424,The Berkeley,09/09/2022,London,Hotel,CAR70,7
+5425,The NoMad Hotel,09/09/2022,London,Hotel,CAR70,5
+5426,Mimi's Bar & Lounge,09/09/2022,London,Hotel,CAR1.75,1
+5427,China Tang at the Dorchester,09/09/2022,London,Restaurant,CAR70,1
+5428,Best Wines London,10/09/2022,London,Sub-Distributor / wholesale,GOLD,12
+5429,Le Cirque Soir,10/09/2022,London,Night Club,CAR70,12
+5430,Pier Luigi's,10/09/2022,London,Restaurant,CAR70,11
+5431,The Secret Lounge,10/09/2022,London,Restaurant,CAR70,5
+5432,Premium Tequila,10/09/2022,London,Online Shop,CAP,5
+5433,Firefly,10/09/2022,Manchester,Restaurant,CAR70,1
+5434,Banana Split,11/09/2022,London,Other,CAR70,36
+5435,Bagatelle,11/09/2022,London,Restaurant,CAA,2
+5436,The Box Soho,12/09/2022,London,Night Club,CAP,18
+5437,Koko,12/09/2022,London,Bar,CAA,2
+5438,Aluna,12/09/2022,Manchester,Restaurant,CAR70,1
+5439,Mestizo Shop,12/09/2022,London,Retail,CAP,1
+5440,The Grapevine,13/09/2022,London,Retail,CAP,420
+5441,Festival Republic Ltd,13/09/2022,London,Other,CAP,16
+5442,Italian Continental Stores,13/09/2022,Maidenhead,Retail,CAR70,12
+5443,Red,13/09/2022,Guernsey,Restaurant,CAR70,6
+5444,Hedonism,13/09/2022,London,Retail,CAU,5
+5445,Mestizo Chelsea,13/09/2022,London,Restaurant,CAA,2
+5446,Stringfellows,14/09/2022,London,Night Club,CAR70,24
+5447,Village Vineyards,14/09/2022,Birmingham,Retail,CAR70,12
+5448,The NoMad Hotel,14/09/2022,London,Hotel,CAP,4
+5449,Sheldons Wine Cellars,14/09/2022,Costwold,Retail,GOLD,2
+5450,The Hoxton,14/09/2022,London,Hotel,CAR70,2
+5451,The Grapevine,15/09/2022,London,Retail,CAR70,360
+5452,Hedonism,15/09/2022,London,Retail,GUERRERO,36
+5453,Sexy Fish,15/09/2022,London,Restaurant,CAR70,6
+5454,Master of Malt,15/09/2022,London,Online Shop,CAM,3
+5455,Muccis,15/09/2022,London,Restaurant,CAR70,2
+5456,Jumeirah Carlton Tower,15/09/2022,London,Hotel,CAA,1
+5457,Seabank Hotel,15/09/2022,Malta,Hotel,CAM,1
+5458,Best Wines London,16/09/2022,London,Sub-Distributor / wholesale,CAU,20
+5459,Ministry of Sound,16/09/2022,London,Night Club,CAP,6
+5460,Cirque Manchester,16/09/2022,Manchester,Night Club,CAR70,3
+5461,W Leicester Square,16/09/2022,London,Hotel,CAA,2
+5462,La Petite Maison,16/09/2022,London,Restaurant,CAR70,1
+5463,Quaglinos,16/09/2022,London,Restaurant,CAP,1
+5464,Selfridges Ltd,17/09/2022,London,Retail,CAA,64
+5465,Sumosan Twiga,17/09/2022,London,Restaurant,CAP,34
+5466,Townhouse 22,17/09/2022,London,Other,CAR70,6
+5467,The Hari Hotel,17/09/2022,London,Hotel,CAP,1
+5468,The Box Soho,18/09/2022,London,Night Club,CAP,66
+5469,Inca,18/09/2022,London,Night Club,CAP,6
+5470,5 Hertford Street,18/09/2022,London,Other,CAR1.75,6
+5471,Madison ,18/09/2022,London,Restaurant,CAR70,4
+5472,Harvey Nichols,19/09/2022,London,Retail,LAP,18
+5473,Astons of Manchester,19/09/2022,Manchester,Retail,CAR70,6
+5474,Proud Embankment,19/09/2022,London,Night Club,CAR70,2
+5475,Nusret,19/09/2022,London,Restaurant,GUERRERO,1
+5476,Sea Containers,20/09/2022,London,Hotel,CAR70,2
+5477,Jamavar,20/09/2022,London,Restaurant,CAR70,2
+5478,Stringfellows,20/09/2022,London,Night Club,CAR1.75,2
+5479,The NoMad Hotel,20/09/2022,London,Hotel,CAR70,1
+5480,Park Chinois,20/09/2022,London,Restaurant,CAP,1
+5481,VIP Bottles,21/09/2022,Leicester ,Online Shop,GOLD,3
+5482,Hedonism,21/09/2022,London,Retail,CAR70,1
+5483,Disrepute,21/09/2022,London,Other,CAP,1
+5484,The Gun,22/09/2022,London,Bar,CAR70,5
+5485,IT Restaurant,22/09/2022,London,Restaurant,CAR1.75,4
+5486,Cari Life Ltd,22/09/2022,London,Other,CAR70,2
+5487,W Leicester Square,22/09/2022,London,Hotel,GOLD,2
+5488,Harvey Nichols,23/09/2022,London,Retail,CAP,24
+5489,LWC Drinks,23/09/2022,London,Sub-Distributor / wholesale,CAA,10
+5490,Bordeaux Index Limited,23/09/2022,London,Sub-Distributor / wholesale,CAA,6
+5491,Loki Wines Ltd,23/09/2022,Birmingham,Retail,CAP,6
+5492,Nobu Hotel,23/09/2022,London,Hotel,CAR70,6
+5493,Como Metropolitan London,23/09/2022,London,Hotel,CAP,5
+5494,Nobu Hotel,23/09/2022,London,Hotel,CAP,2
+5495,Cafe Royal,23/09/2022,London,Hotel,CAR70,2
+5496,Chinawhite,24/09/2022,London,Night Club,CAR70,34
+5497,Loki Wines Ltd,24/09/2022,Birmingham,Retail,CAR70,6
+5498,The Beaumont Hotel,24/09/2022,London,Hotel,CAR70,4
+5499,Amathus Drinks PLC,25/09/2022,London,Retail,CAR70,785
+5500,PS Drinks,25/09/2022,London,Sub-Distributor / wholesale,CAR70,258
+5501,The London Reign,25/09/2022,London,Night Club,CAR70,30
+5502,Socialista,25/09/2022,London,Other,CAR70,18
+5503,Tramp,25/09/2022,London,Other,GOLD,9
+5504,Bagatelle,25/09/2022,London,Restaurant,CAP,8
+5505,Novikov Restaurant & Bar,25/09/2022,London,Restaurant,CAR70,6
+5506,Richard Corrigan Restaurants,25/09/2022,London,Restaurant,CAR70,2
+5507,Mezcalito Chelsea,25/09/2022,London,Restaurant,GUERRERO,1
+5508,Seabank Hotel,25/09/2022,Malta,Hotel,CAR70,1
+5509,"The Standard Hotel, London",25/09/2022,London,Hotel,CAM,1
+5510,Best Wines London,26/09/2022,London,Sub-Distributor / wholesale,CAP,30
+5511,All Drinks Cash & Carry,26/09/2022,London,Cash & Carry,CAP,30
+5512,Bagatelle,26/09/2022,London,Restaurant,CAR1.75,7
+5513,Hovarda,26/09/2022,London,Restaurant,CAP,3
+5514,Champers,27/09/2022,London,Sub-Distributor / wholesale,GOLD,36
+5515,Beat London,27/09/2022,London,Night Club,CAR70,18
+5516,Bagatelle,27/09/2022,London,Restaurant,CAR70,4
+5517,Speciality Drinks Ltd,28/09/2022,London,Sub-Distributor / wholesale,CAR20,48
+5518,Taqueria,28/09/2022,London,Restaurant,CAR70,3
+5519,Rouge,28/09/2022,Guernsey,Restaurant,CAR70,2
+5520,Ricco Lounge,28/09/2022,London,Restaurant,CAR70,1
+5521,The Maine,28/09/2022,London,Restaurant,CAU,1
+5522,CHUCS RESTAURANTS LIMITED,28/09/2022,London,Restaurant,CAR70,1
+5523,Tattu Birmingham,28/09/2022,Birmingham,Restaurant,CAR70,1
+5524,Tramp,29/09/2022,London,Other,CAR70,48
+5525,The Real Drinks Company,29/09/2022,Glasgow,Online Shop,CAP,29
+5526,Madison,29/09/2022,London,Restaurant,CAR70,8
+5527,DrinkSupermaket.com Ltd,29/09/2022,London,Online Shop,CAP,7
+5528,Hammonds Of Knutsford,29/09/2022,Manchester,Sub-Distributor / wholesale,GOLD,6
+5529,Kol,29/09/2022,London,Restaurant,CAA,2
+5530,Nissi,29/09/2022,London,Restaurant,CAR70,1
+5531,The Champagne Company,29/09/2022,Birmingham,Online Shop,GOLD,1
+5532,HYGGE,29/09/2022,London,Restaurant,CAR70,1
+5533,Hedonism,30/09/2022,London,Retail,CAR20,48
